@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Aufgabe05/Aufgabe05.csproj" Id="2cb6f18d-7af9-4c4e-9b59-2b54a1082c3e" />
+  <Project Path="Aufgabe06/Aufgabe06.csproj" Id="c7f682fd-1c23-4360-84a7-b88714a6e9df" />
   <Project Path="Aufgabe1/Aufgabe1.csproj" />
   <Project Path="Aufgabe2/Aufgabe2.csproj" />
   <Project Path="Aufgabe3/Aufgabe3.csproj" Id="06432dc6-2e2e-49d1-ac90-0b2812fc6a22" />
